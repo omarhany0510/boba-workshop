@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+#hackclub{
+   color: black;
+}
+a{
+    color: white;
+}
+h1{
+    color: darkturquoise;
+}
+h2{
+color: darkcyan;
+}
+h3{
+    color: cadetblue;
+}
+h4{
+    color: darkslategrey;
+}
