@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-    <link rel="stylesheet" href="style.css">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Emara's web</title>
-</head>
-<body>
-<h1>Omar Hany Baioumy Abdelfattah Hassanein Emara</h1> 
-<h2>Stem October Student | S'28 | physics, Math & biology club member</h2>
-<h3>Note that: I want to join hack club but the form was closed</h3>
-<h4>Contact me:<br>
-    My email: omarhany0510@gmail.com<br>
-    My phone number: +201022611467
-</h4>
+Omar hany's personal info
+it is my first project i did from scratch in my life
 
-
-<img src="image.png" alt="the best club image" id="hackclub"> <br>
-<a href="https://github.com/omarhany0510/boba-workshop">GitHub Account</a>
-</body>
-</html>
